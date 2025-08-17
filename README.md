@@ -1,8 +1,6 @@
-### Hi, I'm Darkingtail 👋
-
-<!-- 个人横幅（科技风格动态 SVG 横幅） -->
+<!-- 顶部横幅（科技风格 Banner） -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Darkingtail;Frontend+Engineer+%F0%9F%9A%80;Vue+|+React+|+TypeScript+|+AI" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:9D00FF&height=200&section=header&text=Darkingtail%20🚀%20Frontend%20Engineer&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
