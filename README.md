@@ -1,11 +1,12 @@
 <!-- 顶部横幅（科技风格 Banner） -->
-<!-- "https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:9D00FF&height=200&section=header&text=Darkingtail%20🚀%20Frontend%20Engineer&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" -->
+<!-- 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:9D00FF&height=200&section=header&text=Darkingtail%20🚀%20Frontend%20Engineer&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
 
 
 ---
+-->
 
 ## 👨‍💻 About Me
 - 🚀 前端开发工程师  
