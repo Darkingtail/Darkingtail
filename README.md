@@ -1,6 +1,7 @@
 <!-- 顶部横幅（科技风格 Banner） -->
+<!-- "https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:9D00FF&height=200&section=header&text=Darkingtail%20🚀%20Frontend%20Engineer&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:9D00FF&height=200&section=header&text=Darkingtail%20🚀%20Frontend%20Engineer&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:9D00FF&height=200&section=header&text=Darkingtail%20🚀&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
@@ -15,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <!-- 前端基础 -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
