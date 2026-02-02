@@ -9,11 +9,11 @@
 -->
 
 ## 👨‍💻 About Me
-- 🚀 前端开发工程师（目前为止）
-- 🔭 专注 **前端工程化 / Vue / React / TypeScript**  
-- 🤖 对 **AI + 前端结合** 有浓厚兴趣  
-- 🌱 目前在探索 **AI 辅助开发** & **后端工程技术**  
-
+- 🚀 Frontend Engineer
+- 🔭 Focused on Frontend Engineering, Vue, React, and TypeScript
+- 🤖 Passionate about AI + Frontend and developer productivity
+- 🌱 Currently exploring AI-assisted development and Backend engineering
+- 
 ---
 
 ## 🛠️ Tech Stack
@@ -37,7 +37,7 @@
 </p>
 
 ---
-<!--
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -60,4 +60,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Darkingtail/Darkingtail/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
- -->
+
