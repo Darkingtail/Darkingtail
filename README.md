@@ -41,8 +41,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Darkingtail&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkingtail&layout=compact&theme=radical" alt="Top Langs" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=Darkingtail&show_icons=true&theme=radical&cache_seconds=86400&rank_icon=github" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkingtail&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
 ---
@@ -50,7 +52,9 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Darkingtail&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Darkingtail&theme=radical&hide_border=true"
+  />
 </p>
 
 ---
@@ -58,6 +62,9 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Darkingtail/Darkingtail/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/Darkingtail/Darkingtail/main/output/github-contribution-grid-snake.svg"
+  />
 </p>
+
 
