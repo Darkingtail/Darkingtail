@@ -9,7 +9,7 @@
 -->
 
 ## 👨‍💻 About Me
-- 🚀 Frontend Engineer
+- 🚀 Frontend Engineer (currently)
 - 🔭 Focused on Frontend Engineering, Vue, React, and TypeScript
 - 🤖 Passionate about AI + Frontend and developer productivity
 - 🌱 Currently exploring AI-assisted development and Backend engineering
