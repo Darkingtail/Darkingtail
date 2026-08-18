@@ -8,8 +8,8 @@
 ---
 -->
 ## 👋 Hi there, I'm darkingtail
-Full‑stack Engineer, Open‑source & AI enthusiast
 
+✨ Full‑stack Engineer, Open‑source & AI enthusiast
 <!-- --- -->
 
 
