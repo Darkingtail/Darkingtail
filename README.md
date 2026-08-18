@@ -7,18 +7,16 @@
 
 ---
 -->
-
-## 👨‍💻 About Me
-- 🚀 Frontend Engineer (currently)
-- 🔭 Focused on Frontend Engineering, Vue, React, and TypeScript
-- 🤖 Passionate about AI + Frontend and developer productivity
-- 🌱 Currently exploring AI-assisted development and Backend engineering
+## 👋 Hi there, I'm darkingtail.
+- 🚀 Full‑stack Engineer
+- ✨ Open‑source lover
+- 🤖 AI enthusiast
 ---
 
-## 🛠️ Tech Stack
 
 <!-- 🧠 Tech Stack -->
-<p align="left">
+<!-- ## 🛠️ Tech Stack -->
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
@@ -34,7 +32,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
-</p>
+</p> -->
 
 ---
 
