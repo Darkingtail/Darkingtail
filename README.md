@@ -11,7 +11,8 @@
 - 🚀 Full‑stack Engineer
 - ✨ Open‑source lover
 - 🤖 AI enthusiast
----
+
+<!-- --- -->
 
 
 <!-- 🧠 Tech Stack -->
@@ -32,8 +33,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
-</p> -->
+</p>
 
 ---
 
-
+ -->
